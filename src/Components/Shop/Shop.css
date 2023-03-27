@@ -12,10 +12,3 @@
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
 }
-/* .product-container h3{
-    text-align: center;
-
-} */
-.cart-container{
-    background-color: rgba(212, 173, 64, 0.527);
-}
